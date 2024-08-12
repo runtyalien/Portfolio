@@ -19,9 +19,9 @@ const AboutDetails = () => {
             and Node.js as my enchanted tools, I bring visions to life, forging
             robust full-stack applications that transcend the ordinary. I create
             immersive experiences that not only captivate the senses but also
-            empower your business. Whether you're a recruiter seeking talent or
-            a visionary in need of a digital architect, send your message below,
-            and let’s build the future together.
+            empower your business. Whether you&apos;re a recruiter seeking
+            talent or a visionary in need of a digital architect, send your
+            message below, and let&apos;s build the future together.
           </p>
         </ItemLayout>
 

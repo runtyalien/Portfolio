@@ -22,8 +22,8 @@ export default function Contact() {
             Whether you seek to craft a powerful web presence, build dynamic
             full-stack applications, or explore potential collaborations, your
             ideas are the sparks that ignite this digital tapestry. Use the form
-            below to send your inquiries, and let's bring your projects to life
-            with precision and passion.
+            below to send your inquiries, and let&apos;s bring your projects to
+            life with precision and passion.
           </p>
         </div>
         <Form />
