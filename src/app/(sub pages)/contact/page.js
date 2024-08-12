@@ -18,7 +18,12 @@ export default function Contact() {
             Summon the Wizard
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
-            ask chatgpt
+            Step into the realm of innovation and let your vision take form.
+            Whether you seek to craft a powerful web presence, build dynamic
+            full-stack applications, or explore potential collaborations, your
+            ideas are the sparks that ignite this digital tapestry. Use the form
+            below to send your inquiries, and let's bring your projects to life
+            with precision and passion.
           </p>
         </div>
         <Form />
